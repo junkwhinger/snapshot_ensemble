@@ -26,7 +26,7 @@ Compared to the best single model and a simple voting ensemble of 5 best models,
     <td class="tg-yw4l">0.571</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Snapshot Esemble</td>
+    <td class="tg-yw4l">Snapshot Ensemble</td>
     <td class="tg-yw4l">0.596</td>
     <td class="tg-yw4l">0.585<br></td>
   </tr>
