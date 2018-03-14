@@ -4,16 +4,11 @@ This repo contains pytorch implementation of Snapshot Ensemble and Stochastic Gr
 
 Compared to the best single model and a simple voting ensemble of 5 best models, my snapshot ensemble model with 10 snapshots improved f1-score by 0.019(vs. single) and 0.14(vs. simple ensemble). 
 
-!(snapshot ensemble model)[images/snapshot_ensemble.png]
-!(individual snapshot test f1-score)[images/test_f1score.png]
+!(snapshot ensemble model)[/images/snapshot_ensemble.png]
+!(individual snapshot test f1-score)[/images/test_f1score.png]
 
 ## performance comparison
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-yw4l{vertical-align:top}
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"></th>
